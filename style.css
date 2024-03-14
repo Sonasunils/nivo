@@ -1,0 +1,328 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.mainpage
+{
+    width: 98%;
+    height: 100vh;
+    
+    position: relative;
+    left: 1%;
+}
+.lab
+{
+    position: relative;
+    top: 20px;
+    left: 230px;
+}
+
+.q
+{
+    text-decoration: none;
+    color: black;
+}
+.nav3
+{
+    position: relative;
+   top: 38px;
+    
+    right: 130px;
+}
+
+.nav3 ul li a{
+    list-style: none;
+}
+.nav3 ul 
+{
+  float: right;
+  
+ 
+}
+.nav3 ul a
+{
+   display: inline-block;
+}
+
+.ss
+{
+    position: relative;
+    bottom: 12px;
+}
+  
+
+
+    
+.nav4
+{
+    position: relative;
+    
+    right: 130px;
+    top:90px;
+    left: 20px;
+}
+.nav4 ul
+{
+    display: inline-block;
+   
+}
+.nav4 ul li a{
+    list-style: none;
+    box-shadow: 1px 1px rgb(117, 115, 115);
+    position: relative;
+   right: 10px;
+}
+.nav4 ul
+{
+    float: right;
+}
+.nav
+{
+width:100%;
+height: 50px;
+position: relative;
+
+}
+
+.nav ul li a 
+{
+
+display: inline-block;
+list-style: none;
+text-decoration: none;
+padding-top: 10px;
+color: white;
+font-size: small;
+position: relative;
+left: 80px;
+}
+.p
+{
+    position:relative;
+    left: 430px;
+    top: 5px;
+  
+}
+a.active,a.hover
+{
+    text-decoration: underline red;
+}
+.navs
+{
+    width:100%;
+    height:200px;
+    
+}
+.threeimages
+
+{
+    width:82%;
+    height:400px;
+    
+    position: relative;
+    top: 30px;
+    left:8% ;
+
+}
+.living
+{
+    height:100%;
+    width: 65%;
+    
+    background-size: cover;
+    overflow: hidden;
+}
+.s 
+{
+    background-size: cover;
+    filter: brightness(60%);
+}
+.decor
+{
+    width: 30%;
+    height: 190px;
+
+    position: relative;
+    left: 750px;
+    bottom: 100%;
+    overflow: hidden;
+}
+.chair
+{
+    width: 30%;
+    height: 190px;
+  
+    
+    position: relative;
+    left: 750px;
+    bottom: 96%;
+    overflow: hidden;
+}
+.big
+{
+    width:79%;
+    height:200vh;
+   
+    position: relative;
+    top: 30px;
+    left:9% ;
+
+}
+.inlineimages
+{
+    width:100%;
+    height:250px;
+    
+    position: relative;
+    top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    
+
+}
+.box1
+{
+    width: 30%;
+    height: 200px;
+    
+    overflow: hidden;
+  
+    
+}
+.text
+{
+    width: 200px;
+    height: 200px;
+    
+    position: relative;
+    bottom: 350px;
+    left: 240px;
+    font-family: serif;
+    font-size:30px;
+    color: white;
+    
+
+}
+.b1 
+{
+    position: relative;
+    bottom: 420px;
+    left: 260px;
+
+}
+.text3
+{
+    width: 100%;
+    height: 100px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.box2
+{
+    width: 30%;
+    height:100%;
+   
+  justify-content: center;
+  position: relative;
+  top: 30px;
+  left: 20px;
+   
+    
+}
+.nav2 ul
+{
+    float: right;
+
+
+}
+.nav2 ul li button
+{    
+    display: inline-block;
+}
+.nav2{
+    position: relative;
+   bottom: 40px;
+}
+.ppt:hover
+{
+    background-color: black;
+    color: white;
+}
+.items
+{
+    width: 100%;
+    height: 400px;
+   
+    position: relative;
+    top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.st 
+{
+    border: none;
+}
+.imageplacer
+{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(235, 229, 229);
+    position: relative;
+    top: 50px;
+}
+.imag1
+{
+    width: 60%;
+    height: 400px;
+    background-color: pink;
+    background-image: url(https://cdn.pixabay.com/photo/2018/10/28/12/37/bedroom-3778695_640.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.headings
+{
+    width:65%;
+    height: 180px;
+    background-color:rgba(0, 0, 0, 0.6);
+    position: relative;
+    left: 112px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+   
+}
+.h1{
+    width: 80px;
+    height: 80px;
+    background-color: white;
+}
+.righth
+{
+    width:30% ;
+    height: 180px;
+    background-color:black;
+    position: relative;
+    bottom: 290px;
+    left:640px;
+    color: white;
+    
+    
+}.values
+{
+    position: relative;
+    top: 40px;
+}
